@@ -1,0 +1,48 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('AI.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#clock{
+    color: #c9c1a9;
+    font-size: 90px;
+    font-family:'Times New Roman';
+    text-align: center;
+    text-underline-position: under;
+    text-shadow: 2px 2px 5px #000000;
+    font-style: italic;
+}
+
+#current-date{
+    color: #c9c1a9;
+    font-size: 90px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-style: italic;
+}
+
+#remaining{
+    color: #c9c1a9;
+    font-size: 90px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-style: italic;
+}
+
+h1{
+    color:#c9c1a9;
+    font-size: 90px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-style: italic;
+}
+
+
